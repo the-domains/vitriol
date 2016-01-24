@@ -1,0 +1,28 @@
+name: vitriol
+favicon: null
+layout_spectrum: 0.5583008613903075
+typography_spectrum: 0.6621966608799994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2743944979738444
+  lightness: 0.9951547984965146
+  saturation: 0.41051241639070213
+  rhythmicContrast: 0.47557572019286454
+purpose: []
