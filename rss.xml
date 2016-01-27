@@ -4,7 +4,7 @@
         <description><![CDATA[V.I.T.R.I.O.L 8]]></description>
         <link>https://thegrid.ai/vitriol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 20:27:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vitriol/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,9 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>como o mundo é na música </p>]]></description>
             <link>https://thegrid.ai/vitriol/a286ef6f-8ea4-49c4-b548-2e7b0a4c8b04/index.html</link>
             <guid isPermaLink="false">a286ef6f-8ea4-49c4-b548-2e7b0a4c8b04</guid>
-            <pubDate>Wed, 27 Jan 2016 20:25:51 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 20:27:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
