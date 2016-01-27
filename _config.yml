@@ -1,6 +1,6 @@
 name: vitriol
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.6621966608799994
 title: V.I.T.R.I.O.L 8
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0.9951547984965146
   saturation: 0.41051241639070213
   rhythmicContrast: 0.47557572019286454
